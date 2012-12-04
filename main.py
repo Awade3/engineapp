@@ -22,7 +22,7 @@ form = """ <form method="post" action="/testform">
 
 rot13Form = """
 <form method="post" action="/rot13">
-<textarea name="text">This is awesome!</textarea>
+<textarea name="text"></textarea>
 <input type = "submit">
 </form>
 """
